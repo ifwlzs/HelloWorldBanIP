@@ -1,4 +1,6 @@
+23.224.9.224
 2dfan.com
+33img.com
 55comic.com
 91smartyun.pt
 aaex.uk
@@ -50,6 +52,7 @@ eurecom.fr
 exhentai.org
 facebook.com
 fastly.net
+fastmirror.org
 gdax.com
 ggpht.com
 github.com
@@ -62,6 +65,7 @@ googlepages.com
 googlesource.com
 googleusercontent.com
 googlevideo.com
+googlevideo.com
 greasyfork.org
 gstatic.com
 hentai2w.com
@@ -71,6 +75,8 @@ kknews.cc
 ldnmb.com
 louimg.com
 loverslab.com
+luoimg.com
+moegirl.org.cn
 mono-project.com
 netflav.com
 niconico.jp
@@ -87,9 +93,12 @@ python.org
 rarbgprx.org
 reimu.net
 say-huahuo.me
+skeimg.com
 skype.com
 sublimetext.com
 sumisora.org
+sxotu.com
+sxotu.xyz
 telegra.ph
 textnow.com
 textnow.me
@@ -104,6 +113,7 @@ uploaded.net
 vocaloid.com
 whatsapp.com
 whatsapp.net
+wikawika.xyz
 wolframalpha.com
 wsj.net
 xnxxapp01.com
