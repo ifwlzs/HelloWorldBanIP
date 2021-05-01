@@ -111,6 +111,7 @@ mynetimages.com
 netflav.com
 niconico.jp
 nicovideo.jp
+nmbimg.fastmirror.org
 nsaimg.com
 nutaq.com
 nyaa.pro
@@ -133,6 +134,7 @@ s2tu.com
 s7tu.com
 s9tu.com
 say-huahuo.me
+showtheoldmanthedoor.ml
 skeimg.com
 skype.com
 slide.com
@@ -144,6 +146,7 @@ telegra.ph
 textnow.com
 textnow.me
 themoviedb.org
+tiktokv.com
 tinypic.com
 tnmb.org
 tnmbstatic.fastmirror.org
@@ -162,6 +165,7 @@ whatsapp.net
 widgx.org
 wikawika.xyz
 winimg.com
+wojuede.net
 wolframalpha.com
 wsj.net
 x6img.com
@@ -182,4 +186,5 @@ youtube.com
 ytimg.com
 yxdm.me
 zdfx.net
+zengting.net
 zodgame.us
