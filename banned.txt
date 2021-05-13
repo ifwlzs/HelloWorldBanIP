@@ -12,6 +12,7 @@ adnmb.com
 adnmb1.com
 adnmb2.com
 adnmb3.com
+adnmb4.com
 adobe.com
 agefans.com
 aisxdz.cn
@@ -57,6 +58,7 @@ eroges.com
 eurecom.fr
 exhentai.org
 facebook.com
+fanqianglu.com
 fapomatic.com
 fastly.net
 fastmirror.org
@@ -75,7 +77,6 @@ googlecode.com
 googlepages.com
 googlesource.com
 googleusercontent.com
-googlevideo.com
 googlevideo.com
 greasyfork.org
 gstatic.com
@@ -98,6 +99,7 @@ ipics.biz
 jsdelivr.net
 kanjiantu.com
 kknews.cc
+kukuku.uk
 ldnmb.com
 lookpic.com
 louimg.com
@@ -134,6 +136,8 @@ s2tu.com
 s7tu.com
 s9tu.com
 say-huahuo.me
+sayhuahuo.com
+sehuatang.org
 showtheoldmanthedoor.ml
 skeimg.com
 skype.com
@@ -171,6 +175,7 @@ wsj.net
 x6img.com
 x6img.xyz
 xaimg.com
+xfantazy.com
 xnxxapp01.com
 xs.to
 xsimg.xyz
@@ -187,4 +192,6 @@ ytimg.com
 yxdm.me
 zdfx.net
 zengting.net
+zodgame.lol
 zodgame.us
+zodgame.xyz
