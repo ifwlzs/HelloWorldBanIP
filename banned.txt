@@ -8,11 +8,6 @@
 91smartyun.pt
 aaex.uk
 acgnx.net
-adnmb.com
-adnmb1.com
-adnmb2.com
-adnmb3.com
-adnmb4.com
 adobe.com
 agefans.com
 aisxdz.cn
@@ -46,6 +41,7 @@ comicat.org
 cryptocompare.com
 desiupload.com
 directupload.net
+dmc.nico
 dmguo.com
 doujins.com
 dropboxstatic.com
@@ -61,7 +57,6 @@ facebook.com
 fanqianglu.com
 fapomatic.com
 fastly.net
-fastmirror.org
 flypicture.com
 freeimage.us
 freepicninja.com
@@ -106,6 +101,7 @@ louimg.com
 loverslab.com
 luoimg.com
 luvzone.net
+maomiav.com
 moegirl.org.cn
 mono-project.com
 myimghost.com
@@ -113,7 +109,6 @@ mynetimages.com
 netflav.com
 niconico.jp
 nicovideo.jp
-nmbimg.fastmirror.org
 nsaimg.com
 nutaq.com
 nyaa.pro
@@ -146,6 +141,7 @@ sublimetext.com
 sumisora.org
 sxotu.com
 sxotu.xyz
+tangrenge.xyz
 telegra.ph
 textnow.com
 textnow.me
