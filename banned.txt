@@ -115,6 +115,7 @@ nicovideo.jp
 nsaimg.com
 nutaq.com
 nyaa.pro
+nyaa.si
 office.com
 onenote.com
 openairinterface.org
@@ -196,3 +197,4 @@ zengting.net
 zodgame.lol
 zodgame.us
 zodgame.xyz
+manhuagui.com
