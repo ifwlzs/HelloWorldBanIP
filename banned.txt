@@ -33,6 +33,8 @@ bitfinex.com
 bt.agefans.com
 bughentai.com
 buzzfeed.com
+cangku.io
+cangku.moe
 clockwise.ee
 cloudfront.net
 coindesk.com
@@ -104,6 +106,7 @@ louimg.com
 loverslab.com
 luoimg.com
 luvzone.net
+manhuagui.com
 maomiav.com
 moegirl.org.cn
 mono-project.com
@@ -164,6 +167,7 @@ turboimagehost.com
 twitter.com
 ubuntu.com
 uploaded.net
+vikacg.com
 vocaloid.com
 vxotu.com
 whatsapp.com
@@ -176,6 +180,7 @@ wolframalpha.com
 wsj.net
 x6img.com
 x6img.xyz
+x77162.com
 xaimg.com
 xfantazy.com
 xnxxapp01.com
@@ -197,4 +202,3 @@ zengting.net
 zodgame.lol
 zodgame.us
 zodgame.xyz
-manhuagui.com
