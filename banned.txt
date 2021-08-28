@@ -25,6 +25,7 @@ anaconda.com
 animewld.club
 animezilla.com
 api.ip.sb
+api.themoviedb.org
 apple.news
 asiantolick.com
 asmhentai.com
