@@ -29,6 +29,7 @@ api.themoviedb.org
 apple.news
 asiantolick.com
 asmhentai.com
+liumingye.cn
 assdrty.com
 avmo.pw
 aws.amazon.com
