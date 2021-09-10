@@ -29,7 +29,6 @@ api.themoviedb.org
 apple.news
 asiantolick.com
 asmhentai.com
-liumingye.cn
 assdrty.com
 avmo.pw
 aws.amazon.com
@@ -88,6 +87,7 @@ greasyfork.org
 gstatic.com
 hentai2w.com
 hentaicloud.com
+hentaihand.com
 hentaiplay.net
 hjd.tw
 hzinfo.com
@@ -111,6 +111,7 @@ kanjiantu.com
 kknews.cc
 kukuku.uk
 ldnmb.com
+liumingye.cn
 lookpic.com
 louimg.com
 loverslab.com
@@ -130,6 +131,12 @@ nsaimg.com
 nutaq.com
 nyaa.pro
 nyaa.si
+nyahentai.co
+nyahentai.com
+nyahentai.me
+nyahentai1.com
+nyahentai2.com
+nyahentai3.com
 office.com
 ohentai.org
 onenote.com
