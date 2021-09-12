@@ -9,7 +9,6 @@
 69story.com
 79img.com
 8d8d.me
-liumingye.cn
 91smartyun.pt
 aaex.uk
 acgnx.net
@@ -60,7 +59,6 @@ edgekey.net
 edgesuite.net
 ehentai.org
 erocool.com
-gstatic.com
 erocool.me
 eroges.com
 eurecom.fr
@@ -89,6 +87,7 @@ greasyfork.org
 gstatic.com
 hentai2w.com
 hentaicloud.com
+hentaihand.com
 hentaiplay.net
 hjd.tw
 hzinfo.com
@@ -112,6 +111,7 @@ kanjiantu.com
 kknews.cc
 kukuku.uk
 ldnmb.com
+liumingye.cn
 lookpic.com
 louimg.com
 loverslab.com
@@ -131,6 +131,12 @@ nsaimg.com
 nutaq.com
 nyaa.pro
 nyaa.si
+nyahentai.co
+nyahentai.com
+nyahentai.me
+nyahentai1.com
+nyahentai2.com
+nyahentai3.com
 office.com
 ohentai.org
 onenote.com
@@ -222,10 +228,3 @@ zengting.net
 zodgame.lol
 zodgame.us
 zodgame.xyz
-hentaihand.com
-nyahentai.com
-nyahentai1.com
-nyahentai2.com
-nyahentai3.com
-nyahentai.co
-nyahentai.me
