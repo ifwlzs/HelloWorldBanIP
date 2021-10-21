@@ -58,6 +58,7 @@ e-hentai.org
 edgekey.net
 edgesuite.net
 ehentai.org
+epicgames.com
 erocool.com
 erocool.me
 eroges.com
@@ -75,6 +76,7 @@ ggpht.com
 github.com
 github.io
 glowfoto.com
+gmgard.com
 google.com
 google.com.hk
 googleapis.com
@@ -113,6 +115,8 @@ kknews.cc
 kukuku.uk
 ldnmb.com
 libgen.is
+liulishe.com
+liulishe.li
 liumingye.cn
 lookpic.com
 louimg.com
@@ -204,6 +208,7 @@ winimg.com
 wojuede.net
 wolframalpha.com
 wsj.net
+www.llss.bz
 x6img.com
 x6img.xyz
 x77162.com
@@ -220,6 +225,7 @@ xv01-app.com
 xvapp01.com
 xvideos.com
 yande.re
+yeraph.com
 youimg.xyz
 yourimg.com
 youtu.be
