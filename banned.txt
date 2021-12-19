@@ -75,6 +75,7 @@ gdax.com
 ggpht.com
 github.com
 github.io
+githubusercontent.com
 glowfoto.com
 gmgard.com
 google.com
@@ -174,6 +175,7 @@ sis.la
 skeimg.com
 skype.com
 slide.com
+smallgrassselfie.com
 sublimetext.com
 sumisora.org
 sxotu.com
