@@ -155,6 +155,7 @@ pic-upload.de
 pic303.com
 picacomic.com
 picfront.org
+picnew.org
 pict.com
 pixiv.net
 pornhub.com
@@ -210,6 +211,7 @@ winimg.com
 wojuede.net
 wolframalpha.com
 wsj.net
+www.gstatic.com
 www.llss.bz
 x6img.com
 x6img.xyz
