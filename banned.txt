@@ -12,6 +12,7 @@
 91smartyun.pt
 aaex.uk
 acgnx.net
+adblockplus.org
 adobe.com
 agefans.com
 aisxdz.cn
@@ -26,6 +27,7 @@ animewld.club
 animezilla.com
 api.ip.sb
 api.themoviedb.org
+apkcombo.com
 apple.news
 asiantolick.com
 asmhentai.com
@@ -39,8 +41,10 @@ bitfinex.com
 bt.agefans.com
 bughentai.com
 buzzfeed.com
+caddyserver.com
 cangku.io
 cangku.moe
+chemboweix.life
 clockwise.ee
 cloudfront.net
 coindesk.com
@@ -55,6 +59,7 @@ dmhy.org
 doujins.com
 dropboxstatic.com
 e-hentai.org
+easylist-downloads.adblockplus.org
 edgekey.net
 edgesuite.net
 ehentai.org
@@ -69,13 +74,17 @@ fanqianglu.com
 fapomatic.com
 fastly.net
 flypicture.com
+formyip.com
 freeimage.us
 freepicninja.com
+fuli2.net
 gdax.com
 ggpht.com
+github-production-release-asset-2e65be.s3.amazonaws.com
 github.com
 github.io
 githubusercontent.com
+gitlab.com
 glowfoto.com
 gmgard.com
 google.com
@@ -106,6 +115,7 @@ imagehosting.us
 imagevenue.com
 imgbox.com
 imgfreehost.com
+imgpile.com
 imgspot.com
 ipics.biz
 iwara.tv
@@ -129,6 +139,7 @@ maomiav.com
 mh857.cn
 moegirl.org.cn
 mono-project.com
+msi.com
 myimghost.com
 mynetimages.com
 netflav.com
@@ -148,6 +159,7 @@ office.com
 ohentai.org
 onenote.com
 openairinterface.org
+openwrt.proxy.ustclug.org
 paintedover.com
 pantsu.cat
 photobucket.com
@@ -160,8 +172,10 @@ pict.com
 pixiv.net
 pornhub.com
 pornpics.com
+poweredby.cloud
 pximg.net
 python.org
+qbittorrent.org
 quickso.cn
 rarbgprx.org
 reimu.net
@@ -211,7 +225,6 @@ winimg.com
 wojuede.net
 wolframalpha.com
 wsj.net
-www.gstatic.com
 www.llss.bz
 x6img.com
 x6img.xyz
