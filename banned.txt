@@ -78,6 +78,7 @@ formyip.com
 freeimage.us
 freepicninja.com
 fuli2.net
+fuli77.net
 gdax.com
 ggpht.com
 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -128,7 +129,6 @@ ldnmb.com
 libgen.is
 liulishe.com
 liulishe.li
-liumingye.cn
 lookpic.com
 louimg.com
 loverslab.com
@@ -254,3 +254,4 @@ zengting.net
 zodgame.lol
 zodgame.us
 zodgame.xyz
+zztt36.com
