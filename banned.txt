@@ -20,6 +20,7 @@ aka.ms
 akamai.net
 akamaiedge.net
 akamaihd.net
+all.cc
 amazonaws.com
 ampproject.org
 anaconda.com
@@ -47,6 +48,7 @@ cangku.moe
 chemboweix.life
 clockwise.ee
 cloudfront.net
+cnzuqiu.mobi
 coindesk.com
 coinsquare.io
 comicat.org
@@ -155,6 +157,7 @@ nyahentai.me
 nyahentai1.com
 nyahentai2.com
 nyahentai3.com
+obimg.xyz
 office.com
 ohentai.org
 onenote.com
@@ -169,6 +172,7 @@ picacomic.com
 picfront.org
 picnew.org
 pict.com
+picturedata.org
 pixiv.net
 pornhub.com
 pornpics.com
@@ -213,6 +217,7 @@ turboimagehost.com
 twitter.com
 ubuntu.com
 uploaded.net
+v2ex.com
 vikacg.com
 vocaloid.com
 vxotu.com
