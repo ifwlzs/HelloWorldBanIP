@@ -2,6 +2,7 @@
 18comic.vip
 192td.com
 23.224.9.224
+23img.com
 2dfan.com
 33img.com
 55comic.com
@@ -81,6 +82,7 @@ freeimage.us
 freepicninja.com
 fuli2.net
 fuli77.net
+gamcore.com
 gdax.com
 ggpht.com
 github-production-release-asset-2e65be.s3.amazonaws.com
@@ -100,6 +102,7 @@ googleusercontent.com
 googlevideo.com
 greasyfork.org
 gstatic.com
+hanime1.me
 heji.ltd
 hentai2w.com
 hentaicloud.com
@@ -161,6 +164,7 @@ obimg.xyz
 office.com
 ohentai.org
 onenote.com
+openai.com
 openairinterface.org
 openwrt.proxy.ustclug.org
 paintedover.com
@@ -174,6 +178,7 @@ picnew.org
 pict.com
 picturedata.org
 pixiv.net
+porcore.com
 pornhub.com
 pornpics.com
 poweredby.cloud
@@ -189,6 +194,7 @@ s9tu.com
 say-huahuo.me
 sayhuahuo.com
 sehuatang.org
+shapez.mod.io
 showtheoldmanthedoor.ml
 sis.la
 skeimg.com
